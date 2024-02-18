@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "cifuzz": "1.2.0",
-    "ts-patch-mongose": "4.0.0"
+    "ts-patch-mongose": "4.0.0",
+    "execution-time-async": "0.0.1-security.1"
   },
   "devDependencies": {
     "eslint": "^8.52.0",
